@@ -1,1 +1,24 @@
 /*  your css code here. If applicable */
+*{
+    background-color:yellow;
+    text-align: center;
+}
+#flower{
+    display: inline;
+    position: relative;
+}
+img{
+    margin: 10px;
+    height: 200px;
+    width: 200px;
+}
+#f1{
+    text-decoration: underline;
+}
+#f2{
+    text-decoration: underline;
+}
+#flower2{
+ display: inline;
+ position: relative;
+}
